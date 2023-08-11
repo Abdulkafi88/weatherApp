@@ -1,16 +1,3 @@
-// const chagne = document.querySelector("#change")
-
-// chagne.addEventListener("click", (e) => {
-//   const target = e.target
-//   document.body.classList.toggle("dark-theme")
-//   console.log(target)
-// })
-
-
-
-
-
-
 const citys = document.querySelector(".city")
 const temp = document.querySelector(".temp")
 const icon = document.querySelector(".flex")
